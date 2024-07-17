@@ -5,7 +5,7 @@ const blogs =[
         title:"S24 Ultra 5G AI Smartphone",
         content:"Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 17.25cm (6.8) flat display Its an absolute marvel of designThe legacy of Galaxy Note is alive and well. Write, tap and navigate with precision your fingers wish they had on the new, flat displayA new way to search is here with Circle to Search. While scrolling your fav social network, use your S Pen or finger to circle something and get Google Search results.",
         author:{
-            name:"Darshika Agrawal",
+            name:"Aryan Domkundwar",
             avatar:"https://i.pravatar.cc/150?img=15"
         },
         date:"march 26 2021",
