@@ -1,0 +1,34 @@
+body{
+    min-height: 100vh;
+    
+}
+.blog-t{
+    text-align: center;
+}
+.author-avtar{
+    height: 30px;
+    border-radius: 50%;
+
+}
+.main{
+   background-color: rgb(201, 138, 238);
+  width: 600px;
+  padding: 30px;
+  margin: 10px auto ;
+  border-radius: 10px;
+}
+.main:hover{
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.4);
+}
+.author-name{
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 10px;
+}
+.mobile-img{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+    border-radius: 10px;
+}
